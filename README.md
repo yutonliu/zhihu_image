@@ -13,3 +13,6 @@ Downloadzhimg::downImg($url,$offset,$limit);
 ```
 php  get.php
 ```
+
+
+#  power by mark.liu
