@@ -1,5 +1,11 @@
 # zhihu_image
 
+###简介
+```
+爬取知乎答案里的图片
+
+```
+
 ### 类方法调用 
 ```
 $url = "https://www.zhihu.com/question/31919242"; //知乎问题的url地址
