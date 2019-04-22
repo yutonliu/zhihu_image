@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pda/pheanstalk": "^3.2",
+        "php-amqplib/php-amqplib": "^2.9"
+    }
+}
